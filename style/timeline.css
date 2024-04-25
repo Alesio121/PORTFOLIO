@@ -34,22 +34,22 @@
 }
 
 .card:nth-child(6n+1), .card:nth-child(6n+1):before{
-    background: #4fa0ff;
+    background: darkorange;
 }
 .card:nth-child(6n+2), .card:nth-child(6n+2):before{
-    background: #ff4f4f;
+    background: darkorange;
 }
 .card:nth-child(6n+3), .card:nth-child(6n+3):before{
-    background: #ffb84f;
+    background: darkorange;
 }
 .card:nth-child(6n+4), .card:nth-child(6n+4):before{
-    background: #3dca5c;
+    background: darkorange;
 }
 .card:nth-child(6n+5), .card:nth-child(6n+5):before{
-    background: #a79d9d;
+    background: darkorange;
 }
 .card:nth-child(6n), .card:nth-child(6n):before{
-    background: #ae68dae1;
+    background: orange;
 }
 
 @media (min-width: 991px) {
